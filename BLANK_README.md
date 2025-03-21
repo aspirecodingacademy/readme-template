@@ -26,10 +26,10 @@ SOFTWARE.
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
-    <h1 align="center">repo_name</h1>
   </a>
+  <h1 align="center">repo_name</h1>
 
-  <h3 align="center">one_liner_description</h3>
+  <p align="center">one_liner_description</p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -89,9 +89,9 @@ contact_name<br>
 
 ## Acknowledgments
 
-- TODO
-- [othneildrew/Best-README-Template][readme-template-url]
-  - For the README template
+-   TODO
+-   [othneildrew/Best-README-Template][readme-template-url]
+    -   For the README template
 
 <!-- MARKDOWN LINKS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

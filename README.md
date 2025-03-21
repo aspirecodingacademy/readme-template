@@ -56,7 +56,9 @@ SOFTWARE.
   </a>
   <h1 align="center">readme-template</h1>
 
-  <p align="center">dotjasonhwang's fork of <a href="https://github.com/othneildrew/Best-README-Template">Best-README-Template</a></p></div>
+  <p align="center">dotjasonhwang's fork of <a href="https://github.com/othneildrew/Best-README-Template">Best-README-Template</a>
+  </p>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -83,19 +85,19 @@ I found myself spending a lot of time on the README. So I found a nice template 
 1. Clone this repository
 2. `setup.sh {YOUR_PROJECT_ROOT_HERE}`
 
-- This will copy the README template as well as the `.github` and `readme-assets` directories to your project root
+-   This will copy the README template as well as the `.github` and `readme-assets` directories to your project root
 
 3. Replace the following placeholders with your project's information
 
-- `github_username`
-- `contact_name`
-- `email_address`
-- `logo.png`
-- `repo_name`
-- `one_liner_description`
-- `product-screenshot`
-- `usage-screenshot`
-- all `TODO` placeholders
+-   `github_username`
+-   `contact_name`
+-   `email_address`
+-   `logo.png`
+-   `repo_name`
+-   `one_liner_description`
+-   `product-screenshot`
+-   `usage-screenshot`
+-   all `TODO` placeholders
 
 ## Built With
 
@@ -119,10 +121,10 @@ Jason Hwang<br>
 
 ## Acknowledgments
 
-- [Simpleicons][simpleicons-url]
-  - For the [logo][logo-url]
-- [othneildrew/Best-README-Template][readme-template-url]
-  - For the README template
+-   [Simpleicons][simpleicons-url]
+    -   For the [logo][logo-url]
+-   [othneildrew/Best-README-Template][readme-template-url]
+    -   For the README template
 
 <!-- MARKDOWN LINKS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
