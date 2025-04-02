@@ -1,7 +1,7 @@
 <!--
 MIT License
 
-Copyright (c) 2025 Jason Hwang
+Copyright (c) 2025 Aspire Coding Academy LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,8 +24,8 @@ SOFTWARE.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://aspirecodingacademy.com">
+    <img src="readme-assets/background_navy_rounded.svg" alt="Logo" width="240">
   </a>
   <h1 align="center">repo_name</h1>
 
@@ -84,8 +84,7 @@ Thank you for your interest in contributing to this project. Open source project
 
 ## Contact
 
-contact_name<br>
-[email_address](mailto:email_address)
+[contact@aspirecodingacademy.com](mailto:hello@aspirecodingacademy.com)
 
 ## Acknowledgments
 
@@ -96,10 +95,15 @@ contact_name<br>
 <!-- MARKDOWN LINKS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+<!-- aca -->
+
+[aspirecodingacademy-url]: https://aspirecodingacademy.com
+[wip-initiative-url]: https://github.com/aspirecodingacademy/wip-initiative
+
 <!-- repo -->
 
-[feature-request-url]: https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md
-[bug-report-url]: https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md
+[feature-request-url]: https://github.com/aspirecodingacademy/repo_name/issues/new?labels=enhancement&template=feature-request---.md
+[bug-report-url]: https://github.com/aspirecodingacademy/repo_name/issues/new?labels=bug&template=bug-report---.md
 
 <!-- about -->
 
@@ -120,8 +124,8 @@ contact_name<br>
 
 <!-- license -->
 
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/aspirecodingacademy/repo_name.svg?style=for-the-badge
+[license-url]: https://github.com/aspirecodingacademy/repo_name/blob/master/LICENSE.txt
 
 <!-- acknowledgements -->
 

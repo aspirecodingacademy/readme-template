@@ -51,12 +51,12 @@ SOFTWARE.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dotjasonhwang/readme-template">
+  <a href="https://github.com/aspirecodingacademy/readme-template">
     <img src="readme-assets/markdown.svg" alt="Logo" width="80" height="80">
   </a>
   <h1 align="center">readme-template</h1>
 
-  <p align="center">dotjasonhwang's fork of <a href="https://github.com/othneildrew/Best-README-Template">Best-README-Template</a>
+  <p align="center">ACA's fork of <a href="https://github.com/othneildrew/Best-README-Template">Best-README-Template</a>
   </p>
 </div>
 
@@ -82,17 +82,12 @@ I found myself spending a lot of time on the README. So I found a nice template 
 
 ## Usage
 
-1. Clone this repository
-2. `setup.sh {YOUR_PROJECT_ROOT_HERE}`
+1. `setup.sh {YOUR_PROJECT_ROOT_HERE}`
 
 -   This will copy the README template as well as the `.github` and `readme-assets` directories to your project root
 
-3. Replace the following placeholders with your project's information
+2. Replace the following placeholders with your project's information
 
--   `github_username`
--   `contact_name`
--   `email_address`
--   `logo.png`
 -   `repo_name`
 -   `one_liner_description`
 -   `product-screenshot`
@@ -116,8 +111,7 @@ Thank you for your interest in contributing to this project. Open source project
 
 ## Contact
 
-Jason Hwang<br>
-[hello@dotjasonhwang.com](mailto:hello@dotjasonhwang.com)
+[contact@aspirecodingacademy.com](mailto:hello@aspirecodingacademy.com)
 
 ## Acknowledgments
 
@@ -129,10 +123,23 @@ Jason Hwang<br>
 <!-- MARKDOWN LINKS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+<!-- aca -->
+
+[aspirecodingacademy-url]: https://aspirecodingacademy.com
+[wip-initiative-url]: https://github.com/aspirecodingacademy/wip-initiative
+
 <!-- repo -->
 
-[feature-request-url]: https://github.com/dotjasonhwang/readme-template/issues/new?labels=enhancement&template=feature-request.md
-[bug-report-url]: https://github.com/dotjasonhwang/readme-template/issues/new?labels=bug&template=bug-report.md
+[feature-request-url]: https://github.com/aspirecodingacademy/readme-template/issues/new?labels=enhancement&template=feature-request---.md
+[bug-report-url]: https://github.com/aspirecodingacademy/readme-template/issues/new?labels=bug&template=bug-report---.md
+
+<!-- about -->
+
+[product-screenshot]: readme-assets/screenshot.png
+
+<!-- usage -->
+
+[usage-screenshot]: readme-assets/screenshot.png
 
 <!-- built_with -->
 
@@ -145,11 +152,9 @@ Jason Hwang<br>
 
 <!-- license -->
 
-[license-shield]: https://img.shields.io/github/license/dotjasonhwang/readme-template.svg?style=for-the-badge
-[license-url]: https://github.com/dotjasonhwang/readme-template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/aspirecodingacademy/readme-template.svg?style=for-the-badge
+[license-url]: https://github.com/aspirecodingacademy/readme-template/blob/master/LICENSE.txt
 
 <!-- acknowledgements -->
 
-[simpleicons-url]: https://simpleicons.org/
-[logo-url]: https://simpleicons.org/?q=markdown
 [readme-template-url]: https://github.com/othneildrew/Best-README-Template
